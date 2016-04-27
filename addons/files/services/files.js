@@ -347,7 +347,7 @@ angular.module('mm.addons.files')
         var canAccessFiles = self.canAccessFiles(),
             canAccessMyFiles = $mmSite.canAccessMyFiles(),
             canUploadFiles = $mmSite.canUploadFiles();
-
+        return false;
         return canAccessFiles || (canUploadFiles && canAccessMyFiles);
     };
 
