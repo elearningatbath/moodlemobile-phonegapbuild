@@ -11049,7 +11049,8 @@ angular.module('mm.addons.files')
             "filename": ""
         };
         self.canAccessFiles = function() {
-        return $mmSite.wsAvailable('core_files_get_files');
+            return false;
+        //return $mmSite.wsAvailable('core_files_get_files');
     };
         self.checkIOSNewFiles = function() {
         var deferred = $q.defer();
