@@ -7717,7 +7717,7 @@ em {
  */
 .bar-content {
   border-color: transparent;
-  background-color: #606A86;
+  background-color: #D27;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff; }
   .bar-content .title {
@@ -7992,7 +7992,7 @@ mm-navigation-bar .col {
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #606A86;
+  background-color: #D27;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff;
   height: 80px !important; }
