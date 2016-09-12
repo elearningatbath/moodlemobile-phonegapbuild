@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.universityofbath.moodlemobile"
-        versionCode = "2012"
+        versionCode = "2013"
         version   = "3.0.0">
     <name>University of Bath Moodle Mobile</name>
 
