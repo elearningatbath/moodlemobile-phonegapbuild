@@ -22,6 +22,8 @@ angular.module('mm.addons.files')
     };
     $scope.showUpload = function() {
         // Show upload in this page if user can upload but he can't see the My Files option.
+        //Hittesh Ahuja - hacking
+        return false;
         return !$mmaFiles.canAccessFiles() && $mmSite.canAccessMyFiles() && $mmSite.canUploadFiles();
     };
     $scope.canDownload = $mmSite.canDownloadFiles;
