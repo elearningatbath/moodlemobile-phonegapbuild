@@ -77,7 +77,6 @@
     <icon src="resources/ios/icon/icon-40@3x.png"         gap:platform="ios"      width="120" height="120" />
     <icon src="resources/ios/icon/icon-76@2x.png"         gap:platform="ios"      width="152" height="152" />
     <icon src="resources/ios/icon/icon-57@2x.png"         gap:platform="ios"      width="114" height="114" />
-    <icon src="resources/ios/icon/icon-72@2x.png"         gap:platform="ios"      width="144" height="144" />
 
     <gap:splash src="splash.png" />
     <gap:splash src="resources/android/splash/drawable-land-ldpi-b.png"      gap:platform="android" gap:qualifier="land-ldpi"/>
