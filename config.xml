@@ -62,7 +62,7 @@
     <icon src="resources/android/icon/icon96.png"      gap:platform="android"    gap:density="xhdpi" />
     <icon src="resources/android/icon/icon144.png"    gap:platform="android"    gap:density="xxhdpi" />
 
-    <icon src="resources/ios/icon/icon-small.png"         gap:platform="ios"      width="29" height="29" />
+    <icon src="resources/ios/icon/icon-small-bath.png"         gap:platform="ios"      width="29" height="29" />
     <icon src="resources/ios/icon/icon-small@2x.png"      gap:platform="ios"      width="58" height="58" />
     <icon src="resources/ios/icon/icon-small@3x.png"      gap:platform="ios"      width="87" height="87" />
     <icon src="resources/ios/icon/icon-40.png"            gap:platform="ios"      width="40" height="40" />
