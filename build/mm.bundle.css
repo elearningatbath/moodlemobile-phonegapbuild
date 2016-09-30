@@ -9108,3 +9108,7 @@ select.mma-mod_survey-select {
 .button.active, .button.activated {
   box-shadow: none;
   color: #fff; }
+#moodle-logo-container{
+  text-align: center;
+  padding:10px;
+}
