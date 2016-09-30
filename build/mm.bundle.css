@@ -8299,3 +8299,7 @@ a.wiki_edit_section {
 .button.active, .button.activated {
   box-shadow: none;
   color: #fff; }
+#moodle-logo-container{
+  text-align: center;
+  padding:10px;
+}
