@@ -5,10 +5,10 @@
         id        = "uk.ac.bath.moodlemobile3"
         versionCode = "2014"
         version   = "3.1.2">
-    <name>Moodle Mobile</name>
+    <name>University of Bath Moodle Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        University of BathMoodle Mobile app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
