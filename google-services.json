@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "570453131106",
+    "firebase_url": "https://moodle-mobile-app.firebaseio.com",
+    "project_id": "moodle-mobile-app",
+    "storage_bucket": "moodle-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570453131106:android:9440daa72c6a8f45",
+        "android_client_info": {
+          "package_name": "uk.ac.bath.moodlemobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570453131106-8vg62efddneesv4c3vt34evqf79mvkh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDcCeGsSACrcw2ZVZdtpE8iFZHwH7OEtI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
